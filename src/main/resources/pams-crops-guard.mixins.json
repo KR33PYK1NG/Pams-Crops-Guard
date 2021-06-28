@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "pams-crops-guard.refmap.json",
+    "package": "rmc.mixins.pams_crops_guard.inject",
+    "mixins": [
+        "CropHarvestMixin"
+    ]
+}
